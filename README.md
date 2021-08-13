@@ -1,5 +1,5 @@
-# projeto-google-glass
+# Projeto Google Glass
 
-### Projeto que executei no curso de HTML5 do Curso Em Vídeo
+### Executado no curso de HTML5 do Curso Em Vídeo
 
 #### Professor: Gustavo Guanabara

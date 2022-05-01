@@ -246,6 +246,9 @@ footer#rodape {
 
 footer#rodape p {
   text-align: center;
+  text-indent: 0;
+  line-height: 25px;
+  margin-bottom: 5px;
 }
 
 video#filme01 {
